@@ -1,6 +1,6 @@
 E# Calculator
 
-This is my first project as part of CodeAlpha. It’s a basic calculator built using HTML, CSS, and JavaScript. The calculator performs simple arithmetic operations.
+This is my second project as part of CodeAlpha. It’s a basic calculator built using HTML, CSS, and JavaScript. The calculator performs simple arithmetic operations.
 
 ## Features
 
